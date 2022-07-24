@@ -28,9 +28,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### My Stats
+## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lehnele&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lehnele&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lehnele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
