@@ -2,7 +2,7 @@
 ## Frontend developer
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" width="100%"/>
 </div>
 
 <div id="header" align="center">
