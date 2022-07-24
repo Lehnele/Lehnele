@@ -22,7 +22,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lehnele&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,6 +39,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lehnele&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lehnele&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lehnele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
