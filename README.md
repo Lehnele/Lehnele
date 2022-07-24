@@ -1,7 +1,9 @@
 # Daniil Dogadkin
 ## Frontend developer
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" width="500"/>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
