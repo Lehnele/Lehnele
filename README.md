@@ -16,15 +16,7 @@
 </div>
 </div>
 
-
-
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript)
-
-
-
-### :hammer_and_wrench: Languages and Tools :
+###Languages
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
