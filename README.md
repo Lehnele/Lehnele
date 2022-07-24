@@ -30,7 +30,7 @@
 </div>
 
 ## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lehnele&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lehnele&theme=merko)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lehnele&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
