@@ -5,7 +5,7 @@
   <div>
     <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="45%"/>
   </div>
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="45%"/>
   <div id="badges">
     <a href="https://t.me/Lehnele">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
