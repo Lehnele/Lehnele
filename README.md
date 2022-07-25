@@ -41,7 +41,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - I am a technical university student.
 
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lehnele)
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lehnele-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lehnele)
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lehnele&theme=merko)](https://git.io/streak-stats)
