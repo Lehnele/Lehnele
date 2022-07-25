@@ -41,6 +41,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - I am studying at a technical university.
 
+- In my spare time, I immerse myself in web technologies.
+
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lehnele-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lehnele)
 
 ## My Stats
