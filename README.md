@@ -35,11 +35,11 @@
 ## About Me 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- I am in private practice and freelancing.
+- I do freelancing and private practice
 
 - I am creating the frontend part of the application.
 
-- I am a technical university student.
+- I am studying at a technical university.
 
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lehnele-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lehnele)
 
