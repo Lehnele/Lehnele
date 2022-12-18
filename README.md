@@ -2,9 +2,6 @@
 ## Frontend developer
 
 <div id="header" align="center">
-  <div>
-    <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="45%"/>
-  </div>
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="45%"/>
   <div id="badges">
     <a href="https://t.me/Lehnele">
