@@ -48,6 +48,3 @@ I am a Frontend Developer from Russia.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lehnele&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lehnele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Peep into my pins
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="30%"/>
