@@ -1,7 +1,6 @@
-# Daniil Dogadkin - Frontend Developer
 
-<div id="header" align="center">
-</div>
+# Frontend Developer
+
 
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lehnele-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lehnele)
 
