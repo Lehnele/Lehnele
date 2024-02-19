@@ -2,19 +2,11 @@
 ## Frontend developer
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="45%"/>
   <div id="badges">
     <a href="https://t.me/Lehnele">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Lehnele&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## About Me 
